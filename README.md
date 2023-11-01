@@ -1,1 +1,1 @@
-# Document-Summarizer
+# Legal-Document-Summarizer
